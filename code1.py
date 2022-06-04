@@ -2,3 +2,5 @@ a = 10
 b = 20
 
 print(a+b)
+
+print("fuc ya new feature 1")
